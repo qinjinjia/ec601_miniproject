@@ -42,7 +42,8 @@
 
 ## Instruction :laughing:
 
-#### Prerequesite and installation :open_mouth:
+### how to see my developed resume web 
+
 * In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
   
 * Put the downloaded **assets** floder and **index.HTML** source code into a folder :file_folder:.
@@ -50,12 +51,6 @@
 * Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
 * **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)**
-
-#### Run the code :relieved:
-* After installing the OpenCV，the users could **download the modified code from our repository**.
-  
-* Then, add the code into your project. If the program need a input diagram, the users could download [**Lenna.png**](https://github.com/qinjinjia/ec601_ass1/blob/master/original.png) from our repository and add it into your project folder.
-  
 
 #### Enjoy the code and have fun!:wink::wink:
 
