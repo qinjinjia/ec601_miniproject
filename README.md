@@ -18,9 +18,9 @@
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
-:waxing_crescent_moon: The project is based on    :link:**[OpenCV: Open Source Computer Version library](https://github.com/opencv/opencv)** and utilizing C++ programming language.
+:waxing_crescent_moon: The project is based on    :link:**[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** and utilizing HTML language.
 
-:first_quarter_moon: Some samples are picked from the OpenCV **[Samples folder :briefcase:](https://github.com/opencv/opencv/tree/master/samples)** in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
+:first_quarter_moon: The resume web temple is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)** in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
