@@ -50,7 +50,7 @@
   
 * Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
-* **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)**
+* **Alternatively, go to my published personal page [www.qinjinjia.com](ec601-hw2-task1-publish.firebaseapp.com)**
 
 #### Enjoy and have fun!:wink::wink:
 
