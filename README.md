@@ -28,6 +28,12 @@
 
 <img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="500" height="300">
 
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%202.png" width="500" height="300">
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%203.png" width="500" height="300">
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%204.png" width="500" height="300">
+
 ## Instruction :laughing:
 
 #### Prerequesite and installation :open_mouth:
