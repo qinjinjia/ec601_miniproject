@@ -3,7 +3,7 @@
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
   This is the page for **EC601(Fall 2017) A1 Assignment 2 Mini Project** 
-  [@github/buec601a1team10](https://github.com/orgs/buec601a1team10/dashboard)
+  [@github/qinjinjia/ec601_miniproject](https://github.com/qinjinjia/ec601_miniproject)
   
   The Author:
   
