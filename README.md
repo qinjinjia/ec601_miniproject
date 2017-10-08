@@ -26,7 +26,7 @@
    
 :waxing_crescent_moon: The project is based on    :link:**[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** and utilizing HTML language.
 
-:first_quarter_moon: The resume web temple is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)**.
+:first_quarter_moon: The resume web temple :bookmark: is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)**.
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each HTML file.
        
