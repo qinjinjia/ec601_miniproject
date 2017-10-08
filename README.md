@@ -18,7 +18,7 @@
              
    * Study the fundamentals of **application development**
    
-   * Study basics of database and client/server interactions using **[Freebase google DB service](https://firebase.google.com/docs/samples/)**
+   * Study basics of **database** and **client/server interactions** using **[Freebase google DB service](https://firebase.google.com/docs/samples/)**
    
    * Manage **[sprint](https://trello.com/b/CQQCu2RA/buec601a1miniproject)** and **[source code](https://github.com/qinjinjia/ec601_miniproject)** using Trello and Github 
    
