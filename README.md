@@ -43,11 +43,11 @@
 ## Instruction :laughing:
 
 #### Prerequesite and installation :open_mouth:
-* In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the Github repository**. 
+* In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
   
-* Put the downloaded **assets** floder and **index.HTML** source code into a folder.
+* Put the downloaded **assets** floder and **index.HTML** source code into a folder :file_folder:.
   
-* Click the **index.HTML** File, **the developed resume web will appear on a new brower page**.
+* Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
 * There are many tutorials available online for installing OpenCV on your computer, the user could find a suitable one and follow the instructions to install OpenCV on computers.
 
