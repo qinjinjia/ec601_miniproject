@@ -14,7 +14,7 @@
 ## Project Description :bowtie:
 :new_moon: The aim :golf: of the project：
        
-   * Build **WEB** application using Bootstrap
+   * Build **WEB** application using [Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
