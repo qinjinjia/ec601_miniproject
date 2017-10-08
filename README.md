@@ -49,7 +49,7 @@
   
 * Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
-* There are many tutorials available online for installing OpenCV on your computer, the user could find a suitable one and follow the instructions to install OpenCV on computers.
+* **Alternatively, go to my published personal page [qinjinjia.com](qinjinjia.com)**
 
 #### Run the code :relieved:
 * After installing the OpenCV，the users could **download the modified code from our repository**.
