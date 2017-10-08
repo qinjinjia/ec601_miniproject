@@ -25,6 +25,7 @@
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
 :full_moon: Here are **screenshots** of the developed resume website:  
+
 <img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="500" height="300">
 
 ## Instruction :laughing:
