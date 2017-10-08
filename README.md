@@ -43,11 +43,11 @@
 ## Instruction :laughing:
 
 #### Prerequesite and installation :open_mouth:
-* In order to run the code, **the OpenCV must be installed on your computer firstly**. 
+* In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the Github repository**. 
   
-* The team chose the **Windows 10** as the OS, **Visual Studio 2015** as the IDE and utilized the **C++** programming language.
+* Put the downloaded **assets** floder and **index.HTML** source code into a folder.
   
-* However, the choice of OS and IDE are subject to users, **the users could choose OS and IDE they preferred**.
+* Click the **index.HTML** File, **the developed resume web will appear on a new brower page**.
   
 * There are many tutorials available online for installing OpenCV on your computer, the user could find a suitable one and follow the instructions to install OpenCV on computers.
 
