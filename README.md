@@ -14,7 +14,7 @@
 ## Project Description :bowtie:
 :new_moon: The aim :golf: of the project：
        
-   * Build **WEB** application using Bootstrap
+   * Build **WEB** application using [Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
@@ -24,11 +24,15 @@
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
-:full_moon: Here is a **comparison** of the outputs before and after modifying the code:
-   
-   **Before modifying the code: :point_down:  After modifying the code: :point_down:**
-   
-<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">               <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
+:full_moon: Here are **screenshots** of the developed resume website:  
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="600" height="400">
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%202.png" width="600" height="400">
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%203.png" width="600" height="400">
+
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%204.png" width="600" height="400">
 
 ## Instruction :laughing:
 
