@@ -20,7 +20,7 @@
    
 :waxing_crescent_moon: The project is based on    :link:**[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** and utilizing HTML language.
 
-:first_quarter_moon: The resume web temple is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)** in order to conducting the Homework(i.e. practice Pull, Push, Branching, Merging and Conflict resolutions), [create_mask.cpp](https://github.com/opencv/opencv/blob/master/samples/cpp/create_mask.cpp) for instance.
+:first_quarter_moon: The resume web temple is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)**.
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
