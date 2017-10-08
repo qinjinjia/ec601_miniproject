@@ -22,7 +22,7 @@
 
 :first_quarter_moon: The resume web temple is picked from the **[brix.io](http://brix.io/free-bootstrap-templates.html)**.
   
-:waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
+:waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each HTML file.
        
 :full_moon: Here are **screenshots** of the developed resume website:  
 
