@@ -24,11 +24,8 @@
   
 :waxing_gibbous_moon: The modification on the code can be found by pressing the **"history"** tab in each C++ file.
        
-:full_moon: Here is a **comparison** of the outputs before and after modifying the code:
-   
-   **Before modifying the code: :point_down:  After modifying the code: :point_down:**
-   
-<img src="https://github.com/qinjinjia/ec601_ass1/blob/master/original.png" width="300" height="300">               <img src="https://github.com/qinjinjia/ec601_ass1/blob/master/processed.png" width="300" height="300">
+:full_moon: Here are **screenshots** of the developed resume website:  
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="500" height="300">
 
 ## Instruction :laughing:
 
