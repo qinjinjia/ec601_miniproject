@@ -42,7 +42,7 @@
 
 ## Instruction :laughing:
 
-### how to see my developed resume web 
+#### How to see the developed resume web 
 
 * In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
   
@@ -52,7 +52,7 @@
   
 * **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)**
 
-#### Enjoy the code and have fun!:wink::wink:
+#### Enjoy and have fun!:wink::wink:
 
 :beers::beers::beers:
 
