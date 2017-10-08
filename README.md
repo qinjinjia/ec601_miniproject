@@ -16,7 +16,13 @@
        
    * Build **WEB** application using [Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)
              
+   * Study the fundamentals of **application development**
+   
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
+   
+   * Manage **[sprint](https://trello.com/b/CQQCu2RA/buec601a1miniproject)** and **[source code](https://github.com/qinjinjia/ec601_miniproject)** using Trello and Github 
+   
+   *
    
 :waxing_crescent_moon: The project is based on    :link:**[Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)** and utilizing HTML language.
 
