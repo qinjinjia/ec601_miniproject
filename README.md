@@ -26,13 +26,13 @@
        
 :full_moon: Here are **screenshots** of the developed resume website:  
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="500" height="300">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%201.png" width="600" height="300">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%202.png" width="500" height="300">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%202.png" width="600" height="300">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%203.png" width="500" height="300">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%203.png" width="600" height="300">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%204.png" width="500" height="300">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%204.png" width="600" height="300">
 
 ## Instruction :laughing:
 
