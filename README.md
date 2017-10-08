@@ -14,7 +14,7 @@
 ## Project Description :bowtie:
 :new_moon: The aim :golf: of the project：
        
-   * Be familiar with **software code management** using Github
+   * Build **WEB** application using Bootstrap
              
    * Practice **Agile software development [(Scrum)](https://en.wikipedia.org/wiki/Scrum_(software_development))** with a colleague
    
