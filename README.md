@@ -66,6 +66,14 @@
 
 * Or, use this link :point_right::point_right::point_right:**https://ec601-hw2-task1-publish.firebaseapp.com** to open my resume web.
 
+#### How to see the Firebase chat web 
+
+* In order to see the developed resume website, **please download the :open_file_folder: [web-start floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/web-start) from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
+  
+* Open the downloaded :file_folder: **web-start** floder and then click :white_flower: **index.html**.
+   
+* **Alternatively, use this link :point_right::point_right::point_right:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)** to open my resume web.
+
 #### Enjoy and have fun!:wink::wink:
 
 :beers::beers::beers:
