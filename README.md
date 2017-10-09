@@ -50,7 +50,7 @@
   
 * Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
-* **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)** **(Host has a problem at present, please use the link below)**
+* **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)** **(Host has a problem at present, please use the link below:exclamation::exclamation::exclamation:)**
 
 * Or, **Copy** link **ec601-hw2-task1-publish.firebaseapp.com** to your brower and press enter.
 
