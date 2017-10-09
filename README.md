@@ -72,7 +72,7 @@
   
 * Open the downloaded :file_folder: **web-start** floder and then click :page_with_curl: **index.html**.
    
-* **Alternatively, use this link :point_right::point_right::point_right:**https://ec601-hw2-chat.firebaseapp.com** to open my Firebase Chat web.
+* Alternatively, use this link :point_right::point_right::point_right:**https://ec601-hw2-chat.firebaseapp.com** to open my Firebase Chat web.
 
 #### Enjoy and have fun!:wink::wink:
 
