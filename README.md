@@ -8,10 +8,10 @@
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
   Links: 
+  
+   *  **Task 1:point_right:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)**
    
-   * **Task 1:point_right:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)**
-   
-   * **Task 2:point_right:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
+   *  **Task 2:point_right:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
   
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns. 
   
