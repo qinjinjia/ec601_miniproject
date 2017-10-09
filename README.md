@@ -49,8 +49,9 @@
 
 :full_moon: Here is **screenshots** of the Firebase chat website: 
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/FireBase%20Page.png" width="600" height="400">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Page%201.png" width="600" height="400">
 
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Page%202.png" width="600" height="400">
 
 ## Instruction :laughing:
 
