@@ -52,7 +52,7 @@
   
 * **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)**
 
-* Or, Copy link ec601-hw2-task1-publish.firebaseapp.com to your brower and press enter.
+* Or, Copy link **ec601-hw2-task1-publish.firebaseapp.com** to your brower and press enter.
 
 #### Enjoy and have fun!:wink::wink:
 
