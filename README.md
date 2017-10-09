@@ -8,7 +8,9 @@
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
   
   Links: [https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)
+         
          [https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)
+  
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns. 
   
 ## Project Description :bowtie:
@@ -55,7 +57,7 @@
   
 * **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)** **(Host has a problem at present:dizzy_face::dizzy_face::dizzy_face:, please use the link below:exclamation::exclamation::exclamation:)**
 
-* Or, **Copy** link **https://ec601-hw2-task1-publish.firebaseapp.com** to your brower and press enter.
+* Or, use this link :point_right::point_right::point_right:**https://ec601-hw2-task1-publish.firebaseapp.com** to open my resume web.
 
 #### Enjoy and have fun!:wink::wink:
 
