@@ -46,6 +46,7 @@
 
 <img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Resume%20Page%204.png" width="600" height="400">
 
+
 :full_moon: Here is **screenshots** of the Firebase chat website: 
 
 <img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/FireBase%20Page.png" width="600" height="400">
