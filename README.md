@@ -9,9 +9,11 @@
   
   **Task 1-Bootstrap WEB application:**
     
-    **:link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
+  **link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
   
-  **Task2 Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
+  **Task 2-Firebase Chat:**
+  
+  **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
    
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
   
