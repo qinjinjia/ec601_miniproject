@@ -9,7 +9,7 @@
   
   **Task 1-Bootstrap WEB application:**
     
-  **link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
+  **Link:link:[https://ec601-hw2-task1-publish.firebaseapp.com](https://ec601-hw2-task1-publish.firebaseapp.com)** 
   
   **Task 2-Firebase Chat:**
   
