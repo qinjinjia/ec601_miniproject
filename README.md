@@ -57,7 +57,7 @@
 
 ## Instruction :laughing:
 
-#### How to see the developed resume web 
+#### How to see the developed resume web :shipit:
 
 * In order to see the developed resume website, **please download the :open_file_folder: [assets floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/assets) and [index.HTML](https://github.com/qinjinjia/ec601_miniproject/blob/master/index.html) File from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
   
@@ -69,7 +69,7 @@
 
 * Or, use this link :point_right::point_right::point_right:**https://ec601-hw2-task1-publish.firebaseapp.com** to open my resume web.
 
-#### How to see the Firebase chat web 
+#### How to see the Firebase chat web :speech_balloon:
 
 * In order to see the developed resume website, **please download the :open_file_folder: [web-start floder](https://github.com/qinjinjia/ec601_miniproject/tree/master/web-start) from the [Github repository](https://github.com/qinjinjia/ec601_miniproject)**. 
   
