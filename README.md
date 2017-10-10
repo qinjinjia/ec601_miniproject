@@ -55,7 +55,7 @@
 
 <img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%202.png" width="600" height="350">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%203.png.png" width="600" height="350">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%203.png" width="600" height="350">
 
 ## Instruction :laughing:
 
