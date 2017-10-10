@@ -65,7 +65,7 @@
   
 * Click :white_flower: the **index.HTML** File, :surfer: **the developed resume web will appear on a new brower page**.
   
-* **Alternatively, go to my published personal page [www.qinjinjia.com](www.qinjinjia.com)** **(Host has a problem at present:dizzy_face::dizzy_face::dizzy_face:, please use the link below:exclamation::exclamation::exclamation:)**
+* **Alternatively, go to my published personal page [https://www.qinjinjia.com](https://www.qinjinjia.com)** **(Host has a problem at present:dizzy_face::dizzy_face::dizzy_face:, please use the link below:exclamation::exclamation::exclamation:)**
 
 * Or, use this link :point_right::point_right::point_right:**https://ec601-hw2-task1-publish.firebaseapp.com** to open my resume web.
 
