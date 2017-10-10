@@ -51,11 +51,11 @@
 
 :full_moon: Here is **screenshots** of the Firebase chat website: 
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Page%201.png" width="600" height="350">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%201.png" width="600" height="350">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Page%202.png" width="600" height="350">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%202.png" width="600" height="350">
 
-<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Page%203.png" width="600" height="350">
+<img src="https://github.com/qinjinjia/ec601_miniproject/blob/master/Firebase%20Img%203.png.png" width="600" height="350">
 
 ## Instruction :laughing:
 
