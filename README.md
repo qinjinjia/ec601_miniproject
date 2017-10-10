@@ -15,6 +15,8 @@
   
   **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
    
+  **Trello: https://trello.com/b/CQQCu2RA/buec601a1miniproject**
+   
   :mailbox_closed:Please feel free to contact me, if you have any suggestions or concerns.
   
 ## Project Description :bowtie:
