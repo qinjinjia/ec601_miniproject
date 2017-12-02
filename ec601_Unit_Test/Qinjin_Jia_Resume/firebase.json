@@ -1,0 +1,6 @@
+{
+  // If you went through the "Realtime Database Security Rules" step.
+  "hosting": {
+    "public": "./"
+  }
+}
