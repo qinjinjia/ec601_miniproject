@@ -14,6 +14,10 @@
   **Task 2-Firebase Chat:**
   
   **Link:link:[https://ec601-hw2-chat.firebaseapp.com](https://ec601-hw2-chat.firebaseapp.com)**
+  
+  **EC601 HW5-Unit_Test:**
+  
+  **Link:link:[EC601 Assignment5 Unit Test](https://github.com/qinjinjia/ec601_miniproject/tree/master/ec601_Unit_Test)**
    
   **Trello:link:https://trello.com/b/CQQCu2RA/buec601a1miniproject**
    
