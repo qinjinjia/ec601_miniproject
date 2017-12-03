@@ -81,7 +81,7 @@ OK
 
 Automated Test Platform(Window 10 Chrome) parameters:
 
-``` #python
+```python
         caps['name'] = 'Qinjin Jia's Resume'
         caps['build'] = '1.0'
         caps['browserName'] = 'Chrome'
