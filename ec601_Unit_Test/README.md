@@ -43,7 +43,7 @@ The automated test tests the website on two differnt platforms: **Mac Safair(ver
 
 Automated Test Platform(Mac Safari) parameters:
 
-```#python
+```python
         caps['name'] = 'Qinjin Jia's Resume'
         caps['build'] = '1.0'
         caps['browserName'] = 'Safari'
